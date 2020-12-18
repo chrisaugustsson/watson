@@ -27,7 +27,7 @@ const watson = async () => {
   })
   .catch(err => {
     console.log(err);
-  });
+  }); 
 }
 
 watson()
